@@ -1,0 +1,407 @@
+strain	date	division	location	age	sex	division_exposure	host	originating_lab	virus	gisaid_epi_isl	segment	genbank_accession	region	country	country_exposure	date_submitted	dataset	GISAID_clade	Nextstrain_clade	pangolin_lineage	symptoms	travel_history	visited_country	visited_city	contact_with_confirmed_case	point_of_entry_detection	id	source	age_category	coastal_region	repeat_id
+C32046	2020-07-11	Kilifi	Kaloleni	12	Male	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	31962	Local	10-19	other_counties	NA
+C6977	2020-05-12	Kilifi	Kaloleni	35	Male	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Yes	Kenya	Mombasa	NA	0	6893	Travel associated	30-39	other_counties	NA
+C110	2020-03-29	Kilifi	Kilifi North	30	Female	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	No	0	89	Unknown	30-39	other_counties	NA
+C11204	2020-05-28	Kilifi	Kilifi North	33	Female	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	1	11120	Border	30-39	other_counties	NA
+C14230	2020-06-04	Kilifi	Kilifi North	20	Male	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20D	B.1.1.1	Asymptomatic	No	NA	NA	No	0	14146	Local	20-29	other_counties	NA
+C14933	2020-06-05	Kilifi	Kilifi North	34	Female	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	14849	Local	30-39	other_counties	NA
+C20447	2020-06-19	Kilifi	Kilifi North	25	Female	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.300	Asymptomatic	No	NA	NA	No	0	20363	Local	20-29	other_counties	NA
+C25616	2020-06-27	Kilifi	Kilifi North	42	Male	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Kenya	Nairobi	No	0	25532	Travel associated	40-49	other_counties	NA
+C25622	2020-06-27	Kilifi	Kilifi North	40	Male	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.177	Asymptomatic	Unknown	NA	NA	NA	0	25538	Unknown	40-49	other_counties	NA
+C25634	2020-06-27	Kilifi	Kilifi North	29	Male	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	Yes	Kenya	Nairobi	No	0	25550	Travel associated	20-29	other_counties	NA
+C27312	2020-07-01	Kilifi	Kilifi North	36	Male	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	27228	Local	30-39	other_counties	NA
+C38357	2020-07-30	Kilifi	Kilifi North	43	Male	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.399	Unknown	Unknown	NA	NA	NA	0	38273	Unknown	40-49	other_counties	NA
+C38852	2020-07-30	Kilifi	Kilifi North	34	Male	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	Unknown	NA	NA	No	0	38768	Unknown	30-39	other_counties	NA
+C39298	2020-07-31	Kilifi	Kilifi North	34	Female	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	Unknown	NA	NA	NA	0	39214	Unknown	30-39	other_counties	NA
+C422	2020-04-09	Kilifi	Kilifi North	30	Female	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Unknown	NA	NA	NA	0	338	Unknown	30-39	other_counties	R_7
+C54	2020-03-25	Kilifi	Kilifi North	30	Unknown	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	Yes	0	33	Local	30-39	other_counties	NA
+C724	2020-04-15	Kilifi	Kilifi North	30	Female	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Unknown	NA	NA	NA	0	640	Unknown	30-39	other_counties	R_7
+C8565	2020-05-17	Kilifi	Kilifi North	63	Male	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	No	0	8481	Unknown	60-69	other_counties	NA
+C223	2020-04-04	Kilifi	Kilifi South	35	Unknown	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	139	Local	30-39	other_counties	R_8
+C34459	2020-07-17	Kilifi	Kilifi South	33	Female	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.281	Asymptomatic	No	NA	NA	No	0	34375	Local	30-39	other_counties	NA
+C58	2020-03-24	Kilifi	Kilifi South	36	Female	Kilifi	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	37	Local	30-39	other_counties	NA
+C13554	2020-06-02	Kwale	Lungalunga	30	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20D	B	Unknown	Yes	Tanzania	Tanga	NA	0	13470	Travel associated	30-39	other_counties	NA
+C14075	2020-06-03	Kwale	Lungalunga	43	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Unknown	Yes	Tanzania	Tanga	NA	0	13991	Travel associated	40-49	other_counties	NA
+C14302	2020-06-04	Kwale	Lungalunga	32	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Yes	Tanzania	Tanga	NA	0	14218	Travel associated	30-39	other_counties	NA
+C14722	2020-06-05	Kwale	Lungalunga	39	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.111	Unknown	Yes	Tanzania	Mbeya	NA	0	14638	Travel associated	30-39	other_counties	NA
+C17912	2020-06-13	Kwale	Lungalunga	41	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A.1	Asymptomatic	Yes	Malawi	Lilongwe	NA	0	17828	Travel associated	40-49	other_counties	NA
+C25958	2020-06-27	Kwale	Lungalunga	42	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Unknown	Yes	Tanzania	Mbeya	NA	0	25874	Travel associated	40-49	other_counties	NA
+C2685	2020-04-25	Kwale	Lungalunga	42	Female	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	Tanga	No	1	2601	Border	40-49	other_counties	NA
+C32615	2020-07-14	Kwale	Lungalunga	26	Unknown	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Unknown	Yes	Kenya	Nairobi	NA	0	32531	Travel associated	20-29	other_counties	NA
+C6518	2020-05-12	Kwale	Lungalunga	56	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	Tanga	NA	1	6434	Border	50-59	other_counties	NA
+C6519	2020-05-12	Kwale	Lungalunga	27	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Asymptomatic	Yes	Tanzania	Tanga	NA	1	6435	Border	20-29	other_counties	NA
+C6524	2020-05-12	Kwale	Lungalunga	19	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Asymptomatic	Yes	Tanzania	NA	NA	1	6440	Border	10-19	other_counties	NA
+C7850	2020-05-15	Kwale	Lungalunga	29	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Unknown	Yes	Tanzania	Tanga	NA	1	7766	Border	20-29	other_counties	NA
+C7853	2020-05-15	Kwale	Lungalunga	34	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Unknown	Yes	Tanzania	Tanga	NA	0	7769	Travel associated	30-39	other_counties	NA
+C7855	2020-05-15	Kwale	Lungalunga	42	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.300	Unknown	Yes	Tanzania	Mbeya	NA	0	7771	Travel associated	40-49	other_counties	NA
+C7866	2020-05-15	Kwale	Lungalunga	54	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Asymptomatic	Yes	Tanzania	Tanga	NA	1	7782	Border	50-59	other_counties	NA
+C8579	2020-05-17	Kwale	Matuga	31	Female	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	1	8495	Border	30-39	other_counties	NA
+C15388	2020-06-08	Kwale	Msambweni	32	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	15304	Unknown	30-39	other_counties	NA
+C3732	2020-05-01	Kwale	?	43	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	Iringa	No	0	3648	Travel associated	40-49	other_counties	NA
+C3739	2020-05-01	Kwale	?	35	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	3655	Local	30-39	other_counties	NA
+C6465	2020-05-12	Kwale	?	NA	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	1	6381	Border	NA	other_counties	NA
+C6470	2020-05-12	Kwale	?	39	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Asymptomatic	Yes	Tanzania	Tanga	NA	1	6386	Border	30-39	other_counties	NA
+C6495	2020-05-12	Kwale	?	32	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Asymptomatic	Yes	Tanzania	NA	NA	1	6411	Border	30-39	other_counties	NA
+C6507	2020-05-12	Kwale	?	32	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	Tanga	NA	0	6423	Travel associated	30-39	other_counties	NA
+C7039	2020-05-13	Kwale	?	31	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	NA	No	1	6955	Border	30-39	other_counties	NA
+C7268	2020-05-13	Kwale	?	43	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	NA	No	1	7184	Border	40-49	other_counties	NA
+C7276	2020-05-13	Kwale	?	47	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	NA	No	0	7192	Travel associated	40-49	other_counties	NA
+C7295	2020-05-13	Kwale	?	52	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	NA	No	0	7211	Travel associated	50-59	other_counties	NA
+C7296	2020-05-13	Kwale	?	51	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	NA	No	0	7212	Travel associated	50-59	other_counties	NA
+C7297	2020-05-13	Kwale	?	26	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20D	B.1.1.1	Asymptomatic	Yes	Tanzania	NA	No	0	7213	Travel associated	20-29	other_counties	NA
+C7299	2020-05-13	Kwale	?	33	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20D	B.1.1.1	Asymptomatic	Yes	Tanzania	NA	No	0	7215	Travel associated	30-39	other_counties	NA
+C7313	2020-05-13	Kwale	?	24	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	NA	No	1	7229	Border	20-29	other_counties	NA
+C7314	2020-05-13	Kwale	?	23	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	NA	No	1	7230	Border	20-29	other_counties	NA
+C7322	2020-05-13	Kwale	?	23	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	NA	No	1	7238	Border	20-29	other_counties	NA
+C7580	2020-05-14	Kwale	?	36	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Unknown	Yes	Tanzania	Tanga	NA	0	7496	Travel associated	30-39	other_counties	NA
+C7584	2020-05-14	Kwale	?	34	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Yes	Tanzania	Dar es salaam	NA	0	7500	Travel associated	30-39	other_counties	NA
+C7603	2020-05-14	Kwale	?	56	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Unknown	Yes	Tanzania	Tanga	NA	0	7519	Travel associated	50-59	other_counties	NA
+C7604	2020-05-14	Kwale	?	29	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Yes	Tanzania	Dar es salaam	NA	0	7520	Travel associated	20-29	other_counties	NA
+C7605	2020-05-14	Kwale	?	24	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Unknown	Yes	Tanzania	Tanga	NA	0	7521	Travel associated	20-29	other_counties	NA
+C8574	2020-05-17	Kwale	?	33	Male	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Yes	Tanzania	Iringa	NA	0	8490	Travel associated	30-39	other_counties	NA
+C7579	2020-05-14	Kwale	NA	23	Unknown	Kwale	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Unknown	Yes	Tanzania	Tanga	NA	0	7495	Travel associated	20-29	other_counties	NA
+C30069	2020-07-07	Lamu	Lamu	39	Male	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1	Asymptomatic	Yes	Kenya	Lamu	Yes	0	29985	Travel associated	30-39	other_counties	NA
+C37981	2020-07-27	Lamu	Lamu East	65	Male	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Asymptomatic	No	NA	NA	No	0	37897	Local	60-69	other_counties	NA
+C24022	2020-06-23	Lamu	Lamu West	27	Male	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Unknown	Unknown	NA	NA	No	0	23938	Unknown	20-29	other_counties	NA
+C24052	2020-06-24	Lamu	Lamu West	22	Male	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Asymptomatic	Yes	Kenya	Lamu	No	0	23968	Travel associated	20-29	other_counties	NA
+C26630	2020-06-29	Lamu	Lamu West	41	Female	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Unknown	No	NA	NA	Yes	0	26546	Local	40-49	other_counties	NA
+C27763	2020-07-01	Lamu	Lamu West	30	Male	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Unknown	No	NA	NA	No	0	27679	Local	30-39	other_counties	NA
+C27764	2020-07-01	Lamu	Lamu West	70	Male	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Symptomatic	No	NA	NA	NA	0	27680	Local	70-79	other_counties	NA
+C27765	2020-07-02	Lamu	Lamu West	70	Female	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Symptomatic	No	NA	NA	NA	0	27681	Local	70-79	other_counties	NA
+C28485	2020-07-03	Lamu	Lamu West	21	Male	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	28401	Local	20-29	other_counties	NA
+C28495	2020-07-03	Lamu	Lamu West	25	Female	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Symptomatic	No	NA	NA	Yes	0	28411	Local	20-29	other_counties	NA
+C30062	2020-07-06	Lamu	Lamu West	70	Male	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Asymptomatic	No	NA	NA	NA	0	29978	Local	70-79	other_counties	NA
+C30072	2020-07-07	Lamu	Lamu West	31	Female	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Asymptomatic	No	NA	NA	Yes	0	29988	Local	30-39	other_counties	NA
+C30102	2020-07-07	Lamu	Lamu West	49	Male	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Asymptomatic	No	NA	NA	NA	0	30018	Local	40-49	other_counties	NA
+C30103	2020-07-07	Lamu	Lamu West	40	Female	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Asymptomatic	No	NA	NA	Yes	0	30019	Local	40-49	other_counties	NA
+C31823	2020-07-10	Lamu	Lamu West	41	Female	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Asymptomatic	No	NA	NA	Yes	0	31739	Local	40-49	other_counties	NA
+C32299	2020-07-13	Lamu	Lamu West	NA	Female	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Asymptomatic	No	NA	NA	NA	0	32215	Local	NA	other_counties	NA
+C34392	2020-07-16	Lamu	Lamu West	31	Female	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Unknown	No	NA	NA	Yes	0	34308	Local	30-39	other_counties	NA
+C35123	2020-07-17	Lamu	Lamu West	32	Female	Lamu	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Asymptomatic	No	NA	NA	Yes	0	35039	Local	30-39	other_counties	NA
+C253	2020-04-03	Mombasa	Bamburi	30	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	169	Local	30-39	Mombasa	R_19
+C1092	2020-04-18	Mombasa	Changamwe	11	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	1008	Local	10-19	Mombasa	NA
+C13284	2020-06-01	Mombasa	Changamwe	38	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	NA	0	13200	Local	30-39	Mombasa	NA
+C13825	2020-06-03	Mombasa	Changamwe	39	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.384	Asymptomatic	Unknown	NA	NA	NA	0	13741	Unknown	30-39	Mombasa	NA
+C14866	2020-06-05	Mombasa	Changamwe	45	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.384	Asymptomatic	Unknown	NA	NA	NA	0	14782	Unknown	40-49	Mombasa	NA
+C1751	2020-04-22	Mombasa	Changamwe	36	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	1667	Local	30-39	Mombasa	R_18
+C17655	2020-06-12	Mombasa	Changamwe	47	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.384	Symptomatic	No	NA	NA	No	0	17571	Local	40-49	Mombasa	NA
+C19001	2020-06-16	Mombasa	Changamwe	32	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	18917	Local	30-39	Mombasa	NA
+C19080	2020-06-16	Mombasa	Changamwe	38	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.378	Asymptomatic	No	NA	NA	No	0	18996	Local	30-39	Mombasa	NA
+C24157	2020-06-25	Mombasa	Changamwe	5	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	24073	Unknown	0-9	Mombasa	NA
+C25538	2020-06-27	Mombasa	Changamwe	49	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	25454	Local	40-49	Mombasa	NA
+C27523	2020-07-02	Mombasa	Changamwe	53	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	No	NA	NA	No	0	27439	Local	50-59	Mombasa	NA
+C27611	2020-07-02	Mombasa	Changamwe	29	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	27527	Local	20-29	Mombasa	NA
+C2847	2020-04-27	Mombasa	Changamwe	35	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	2763	Unknown	30-39	Mombasa	NA
+C29517	2020-07-06	Mombasa	Changamwe	34	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Asymptomatic	No	NA	NA	NA	0	29433	Local	30-39	Mombasa	NA
+C3948	2020-05-04	Mombasa	Changamwe	34	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.179	Asymptomatic	No	NA	NA	Yes	0	3864	Local	30-39	Mombasa	NA
+C544	2020-04-10	Mombasa	Changamwe	50	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	460	Local	50-59	Mombasa	R_14
+C5442	2020-05-08	Mombasa	Changamwe	46	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	5358	Unknown	40-49	Mombasa	NA
+C5875	2020-05-10	Mombasa	Changamwe	40	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	5791	Local	40-49	Mombasa	NA
+C7081	2020-05-13	Mombasa	Changamwe	21	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	6997	Local	20-29	Mombasa	NA
+C7082	2020-05-13	Mombasa	Changamwe	55	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	6998	Local	50-59	Mombasa	NA
+C16181	2020-06-09	Mombasa	Jomvu	30	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Uganda	Arua	No	0	16097	Travel associated	30-39	Mombasa	NA
+C20682	2020-06-18	Mombasa	Jomvu	55	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Kenya	Malaba	No	0	20598	Travel associated	50-59	Mombasa	NA
+C21481	2020-06-19	Mombasa	Jomvu	44	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	21397	Local	40-49	Mombasa	NA
+C21527	2020-06-19	Mombasa	Jomvu	31	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Uganda	Kampala	NA	0	21443	Travel associated	30-39	Mombasa	NA
+C21582	2020-06-19	Mombasa	Jomvu	74	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	No	NA	NA	NA	0	21498	Local	70-79	Mombasa	NA
+C25438	2020-06-27	Mombasa	Jomvu	47	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	25354	Local	40-49	Mombasa	NA
+C28502	2020-07-03	Mombasa	Jomvu	33	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	Yes	Kenya	Nairobi	NA	0	28418	Travel associated	30-39	Mombasa	NA
+C28591	2020-07-03	Mombasa	Jomvu	46	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Uganda	Kampala	NA	0	28507	Travel associated	40-49	Mombasa	NA
+C31273	2020-07-10	Mombasa	Jomvu	47	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	31189	Local	40-49	Mombasa	NA
+C5384	2020-05-08	Mombasa	Jomvu	22	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	5300	Local	20-29	Mombasa	NA
+C6564	2020-05-12	Mombasa	Jomvu	28	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	No	0	6480	Unknown	20-29	Mombasa	NA
+C7187	2020-05-13	Mombasa	Jomvu	46	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	7103	Local	40-49	Mombasa	NA
+C7949	2020-05-15	Mombasa	Jomvu	46	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	7865	Local	40-49	Mombasa	NA
+C7954	2020-05-14	Mombasa	Jomvu	42	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	7870	Local	40-49	Mombasa	NA
+C8013	2020-05-15	Mombasa	Jomvu	31	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.378	Asymptomatic	No	NA	NA	No	0	7929	Local	30-39	Mombasa	NA
+C8288	2020-05-14	Mombasa	Jomvu	43	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	8204	Unknown	40-49	Mombasa	NA
+C8311	2020-05-15	Mombasa	Jomvu	31	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	No	0	8227	Unknown	30-39	Mombasa	NA
+C1401	2020-04-20	Mombasa	Kilindini Port	41	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	1	1317	Border	40-49	Mombasa	NA
+C13996	2020-06-02	Mombasa	Kisauni	55	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	No	0	13912	Local	50-59	Mombasa	NA
+C15555	2020-06-08	Mombasa	Kisauni	47	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	15471	Local	40-49	Mombasa	NA
+C1625	2020-04-20	Mombasa	Kisauni	61	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	No	0	1541	Local	60-69	Mombasa	NA
+C16959	2020-06-01	Mombasa	Kisauni	80	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	16875	Local	80-89	Mombasa	NA
+C2076	2020-04-23	Mombasa	Kisauni	19	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	1992	Unknown	10-19	Mombasa	NA
+C2239	2020-04-23	Mombasa	Kisauni	50	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	2155	Local	50-59	Mombasa	NA
+C2449	2020-04-24	Mombasa	Kisauni	52	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	2365	Local	50-59	Mombasa	NA
+C2562	2020-04-25	Mombasa	Kisauni	13	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	2478	Unknown	10-19	Mombasa	NA
+C26	2020-03-21	Mombasa	Kisauni	55	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	Yes	0	5	Local	50-59	Mombasa	NA
+C2755	2020-04-26	Mombasa	Kisauni	31	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	Yes	0	2671	Local	30-39	Mombasa	NA
+C27725	2020-07-02	Mombasa	Kisauni	44	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	27641	Local	40-49	Mombasa	NA
+C2801	2020-04-26	Mombasa	Kisauni	65	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	2717	Local	60-69	Mombasa	R_12
+C2826	2020-04-27	Mombasa	Kisauni	45	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	2742	Local	40-49	Mombasa	NA
+C2878	2020-04-27	Mombasa	Kisauni	36	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	2794	Local	30-39	Mombasa	NA
+C3381	2020-04-29	Mombasa	Kisauni	57	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	3297	Local	50-59	Mombasa	R_6
+C452	2020-04-08	Mombasa	Kisauni	26	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	Yes	0	368	Local	20-29	Mombasa	NA
+C4964	2020-05-05	Mombasa	Kisauni	20	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	NA	0	4880	Local	20-29	Mombasa	NA
+C502	2020-04-09	Mombasa	Kisauni	2	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	A	Asymptomatic	No	NA	NA	Yes	0	418	Local	0-9	Mombasa	NA
+C5328	2020-05-08	Mombasa	Kisauni	27	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	5244	Local	20-29	Mombasa	NA
+C5355	2020-05-08	Mombasa	Kisauni	27	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	Yes	0	5271	Local	20-29	Mombasa	NA
+C5456	2020-05-08	Mombasa	Kisauni	49	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1	Unknown	Unknown	NA	NA	NA	0	5372	Unknown	40-49	Mombasa	NA
+C5902	2020-05-10	Mombasa	Kisauni	34	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	Yes	0	5818	Local	30-39	Mombasa	NA
+C656	2020-04-13	Mombasa	Kisauni	16	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Unknown	NA	NA	Yes	0	572	Unknown	10-19	Mombasa	R_9
+C657	2020-04-13	Mombasa	Kisauni	50	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B.4	Symptomatic	Unknown	NA	NA	Yes	0	573	Unknown	50-59	Mombasa	NA
+C658	2020-04-13	Mombasa	Kisauni	19	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	Yes	0	574	Unknown	10-19	Mombasa	NA
+C659	2020-04-13	Mombasa	Kisauni	23	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B	Asymptomatic	Unknown	NA	NA	Yes	0	575	Unknown	20-29	Mombasa	NA
+C688	2020-04-14	Mombasa	Kisauni	42	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.119	Asymptomatic	No	NA	NA	Yes	1	604	Border	40-49	Mombasa	NA
+C787	2020-04-15	Mombasa	Kisauni	56	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	1	703	Border	50-59	Mombasa	NA
+C813	2020-04-15	Mombasa	Kisauni	30	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.291	Symptomatic	Unknown	NA	NA	Yes	0	729	Unknown	30-39	Mombasa	NA
+C815	2020-04-15	Mombasa	Kisauni	30	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	731	Local	30-39	Mombasa	R_19
+C853	2020-04-15	Mombasa	Kisauni	46	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.126	Symptomatic	No	NA	NA	NA	0	769	Local	40-49	Mombasa	NA
+C942	2020-04-17	Mombasa	Kisauni	39	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	1	858	Border	30-39	Mombasa	NA
+C14984	2020-06-06	Mombasa	Likoni	32	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	14900	Local	30-39	Mombasa	NA
+C17149	2020-06-11	Mombasa	Likoni	1	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	17065	Local	0-9	Mombasa	NA
+C17244	2020-06-11	Mombasa	Likoni	3	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	17160	Local	0-9	Mombasa	NA
+C1739	2020-04-22	Mombasa	Likoni	21	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B	Unknown	Unknown	NA	NA	Yes	0	1655	Unknown	20-29	Mombasa	NA
+C17469	2020-06-13	Mombasa	Likoni	33	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	17385	Local	30-39	Mombasa	NA
+C22256	2020-06-22	Mombasa	Likoni	43	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	22172	Local	40-49	Mombasa	NA
+C22289	2020-06-22	Mombasa	Likoni	23	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.254	Asymptomatic	No	NA	NA	NA	0	22205	Local	20-29	Mombasa	NA
+C24752	2020-06-26	Mombasa	Likoni	31	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	A	Unknown	Unknown	NA	NA	No	0	24668	Unknown	30-39	Mombasa	NA
+C26221	2020-06-29	Mombasa	Likoni	43	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Unknown	Unknown	NA	NA	Yes	0	26137	Unknown	40-49	Mombasa	NA
+C28177	2020-07-03	Mombasa	Likoni	27	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	No	NA	NA	NA	0	28093	Local	20-29	Mombasa	NA
+C28978	2020-07-06	Mombasa	Likoni	21	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	28894	Local	20-29	Mombasa	NA
+C29300	2020-07-05	Mombasa	Likoni	24	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Sudan	Khartoum	No	0	29216	Travel associated	20-29	Mombasa	NA
+C30804	2020-07-09	Mombasa	Likoni	23	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	30720	Local	20-29	Mombasa	NA
+C32383	2020-07-13	Mombasa	Likoni	30	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	32299	Local	30-39	Mombasa	NA
+C3457	2020-04-30	Mombasa	Likoni	52	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	3373	Local	50-59	Mombasa	NA
+C4083	2020-05-04	Mombasa	Likoni	55	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	Yes	0	3999	Local	50-59	Mombasa	NA
+C416	2020-04-07	Mombasa	Likoni	53	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.290	Asymptomatic	Yes	United Arab Emirates	Dubai	No	0	332	Travel associated	50-59	Mombasa	R_5
+C4214	2020-05-04	Mombasa	Likoni	37	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	4130	Local	30-39	Mombasa	NA
+C4290	2020-05-05	Mombasa	Likoni	32	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	4206	Local	30-39	Mombasa	NA
+C4419	2020-05-05	Mombasa	Likoni	41	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	No	0	4335	Unknown	40-49	Mombasa	NA
+C4420	2020-05-07	Mombasa	Likoni	49	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	4336	Unknown	40-49	Mombasa	NA
+C4447	2020-05-05	Mombasa	Likoni	34	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	4363	Local	30-39	Mombasa	NA
+C4822	2020-05-06	Mombasa	Likoni	40	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	No	0	4738	Unknown	40-49	Mombasa	NA
+C4872	2020-05-06	Mombasa	Likoni	28	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	4788	Local	20-29	Mombasa	NA
+C5119	2020-05-07	Mombasa	Likoni	32	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	5035	Local	30-39	Mombasa	NA
+C5433	2020-05-08	Mombasa	Likoni	44	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	5349	Unknown	40-49	Mombasa	NA
+C6250	2020-05-11	Mombasa	Likoni	56	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	6166	Local	50-59	Mombasa	NA
+C6255	2020-05-11	Mombasa	Likoni	53	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.33	Unknown	No	NA	NA	No	0	6171	Local	50-59	Mombasa	NA
+C6288	2020-05-11	Mombasa	Likoni	48	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	6204	Unknown	40-49	Mombasa	NA
+C6298	2020-05-11	Mombasa	Likoni	40	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	No	0	6214	Unknown	40-49	Mombasa	NA
+C6309	2020-05-11	Mombasa	Likoni	24	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	6225	Local	20-29	Mombasa	NA
+C7078	2020-05-13	Mombasa	Likoni	4	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	6994	Local	0-9	Mombasa	NA
+C27854	2020-07-02	Mombasa	Mikindani	51	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Kenya	Athi-River	No	0	27770	Travel associated	50-59	Mombasa	NA
+C22	2020-03-17	Mombasa	Mombasa	63	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Yes	Germany	Berlin	No	0	1	Travel associated	60-69	Mombasa	NA
+C7324	2020-05-12	Mombasa	Mombasa	54	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Unknown	NA	NA	NA	0	7240	Unknown	50-59	Mombasa	NA
+C1057	2020-04-18	Mombasa	Mvita	50	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B	Asymptomatic	No	NA	NA	Yes	0	973	Local	50-59	Mombasa	NA
+C1058	2020-04-18	Mombasa	Mvita	NA	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	974	Unknown	NA	Mombasa	NA
+C1063	2020-04-18	Mombasa	Mvita	34	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	979	Local	30-39	Mombasa	NA
+C1099	2020-04-18	Mombasa	Mvita	50	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	1015	Unknown	50-59	Mombasa	R_14
+C1162	2020-04-19	Mombasa	Mvita	43	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	1078	Unknown	40-49	Mombasa	NA
+C1172	2020-04-19	Mombasa	Mvita	38	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	1	1088	Border	30-39	Mombasa	NA
+C1191	2020-04-19	Mombasa	Mvita	35	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	1	1107	Border	30-39	Mombasa	NA
+C1202	2020-04-19	Mombasa	Mvita	57	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B	Asymptomatic	Unknown	NA	NA	NA	1	1118	Border	50-59	Mombasa	NA
+C1216	2020-04-19	Mombasa	Mvita	41	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	1	1132	Border	40-49	Mombasa	NA
+C1218	2020-04-20	Mombasa	Mvita	50	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	1134	Unknown	50-59	Mombasa	R_4
+C1292	2020-04-20	Mombasa	Mvita	21	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B	Asymptomatic	No	NA	NA	Yes	0	1208	Local	20-29	Mombasa	NA
+C1351	2020-04-20	Mombasa	Mvita	47	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	1	1267	Border	40-49	Mombasa	NA
+C1357	2020-04-20	Mombasa	Mvita	44	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	No	1	1273	Border	40-49	Mombasa	NA
+C1377	2020-04-20	Mombasa	Mvita	55	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	1	1293	Border	50-59	Mombasa	NA
+C13939	2020-06-03	Mombasa	Mvita	2	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	13855	Local	0-9	Mombasa	NA
+C1422	2020-04-20	Mombasa	Mvita	37	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	1	1338	Border	30-39	Mombasa	NA
+C1434	2020-04-20	Mombasa	Mvita	48	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	1	1350	Border	40-49	Mombasa	NA
+C14421	2020-06-04	Mombasa	Mvita	32	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	14337	Local	30-39	Mombasa	NA
+C1499	2020-04-19	Mombasa	Mvita	60	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	Yes	0	1415	Unknown	60-69	Mombasa	NA
+C15659	2020-06-08	Mombasa	Mvita	38	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	15575	Local	30-39	Mombasa	NA
+C16881	2020-06-10	Mombasa	Mvita	40	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	16797	Unknown	40-49	Mombasa	NA
+C16957	2020-06-10	Mombasa	Mvita	50	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.222	Unknown	Unknown	NA	NA	NA	0	16873	Unknown	50-59	Mombasa	NA
+C1722	2020-04-22	Mombasa	Mvita	16	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B	Asymptomatic	Unknown	NA	NA	NA	0	1638	Unknown	10-19	Mombasa	R_9
+C18284	2020-06-14	Mombasa	Mvita	61	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	Yes	0	18200	Unknown	60-69	Mombasa	NA
+C18303	2020-06-15	Mombasa	Mvita	50	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.384	Asymptomatic	No	NA	NA	Yes	0	18219	Local	50-59	Mombasa	NA
+C203	2020-04-01	Mombasa	Mvita	42	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.119	Symptomatic	No	NA	NA	Yes	0	119	Local	40-49	Mombasa	NA
+C2041	2020-04-22	Mombasa	Mvita	34	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	1957	Unknown	30-39	Mombasa	NA
+C20639	2020-06-18	Mombasa	Mvita	43	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	20555	Local	40-49	Mombasa	NA
+C22370	2020-06-21	Mombasa	Mvita	50	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.416	Symptomatic	No	NA	NA	No	0	22286	Local	50-59	Mombasa	NA
+C23589	2020-06-24	Mombasa	Mvita	34	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	No	0	23505	Unknown	30-39	Mombasa	NA
+C23676	2020-06-23	Mombasa	Mvita	52	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	23592	Local	50-59	Mombasa	NA
+C23733	2020-06-24	Mombasa	Mvita	50	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	23649	Unknown	50-59	Mombasa	NA
+C24113	2020-06-24	Mombasa	Mvita	44	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	24029	Unknown	40-49	Mombasa	NA
+C24205	2020-06-25	Mombasa	Mvita	40	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	24121	Local	40-49	Mombasa	NA
+C2439	2020-04-24	Mombasa	Mvita	33	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	2355	Local	30-39	Mombasa	NA
+C2469	2020-04-24	Mombasa	Mvita	60	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	2385	Unknown	60-69	Mombasa	R_11
+C2531	2020-04-25	Mombasa	Mvita	23	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	2447	Unknown	20-29	Mombasa	NA
+C25310	2020-06-26	Mombasa	Mvita	64	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	25226	Unknown	60-69	Mombasa	NA
+C2579	2020-04-25	Mombasa	Mvita	65	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	NA	0	2495	Local	60-69	Mombasa	NA
+C25853	2020-06-28	Mombasa	Mvita	31	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	25769	Local	30-39	Mombasa	NA
+C2738	2020-04-26	Mombasa	Mvita	47	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	2654	Unknown	40-49	Mombasa	NA
+C27640	2020-07-02	Mombasa	Mvita	39	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	27556	Local	30-39	Mombasa	NA
+C27664	2020-07-02	Mombasa	Mvita	41	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	No	NA	NA	No	0	27580	Local	40-49	Mombasa	NA
+C2777	2020-04-24	Mombasa	Mvita	75	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	No	0	2693	Local	70-79	Mombasa	NA
+C28838	2020-07-03	Mombasa	Mvita	34	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	28754	Unknown	30-39	Mombasa	NA
+C28839	2020-07-03	Mombasa	Mvita	10	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	28755	Unknown	10-19	Mombasa	NA
+C293	2020-04-04	Mombasa	Mvita	22	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Symptomatic	No	NA	NA	No	1	209	Border	20-29	Mombasa	NA
+C309	2020-04-04	Mombasa	Mvita	47	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B.4	Asymptomatic	No	NA	NA	No	1	225	Border	40-49	Mombasa	NA
+C310	2020-04-04	Mombasa	Mvita	24	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B.4	Asymptomatic	Yes	Zambia	Lusaka	No	1	226	Border	20-29	Mombasa	NA
+C3129	2020-04-28	Mombasa	Mvita	7	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	Yes	0	3045	Local	0-9	Mombasa	NA
+C3130	2020-04-28	Mombasa	Mvita	1	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	Yes	0	3046	Local	0-9	Mombasa	NA
+C314	2020-04-04	Mombasa	Mvita	26	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Asymptomatic	No	NA	NA	No	1	230	Border	20-29	Mombasa	R_15
+C3140	2020-04-29	Mombasa	Mvita	33	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	Yes	0	3056	Local	30-39	Mombasa	R_2
+C31522	2020-07-09	Mombasa	Mvita	44	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	31438	Local	40-49	Mombasa	NA
+C316	2020-04-04	Mombasa	Mvita	51	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B.4	Asymptomatic	No	NA	NA	No	1	232	Border	50-59	Mombasa	NA
+C31638	2020-07-11	Mombasa	Mvita	29	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	A	Asymptomatic	No	NA	NA	No	0	31554	Local	20-29	Mombasa	NA
+C31644	2020-07-11	Mombasa	Mvita	NA	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	No	NA	NA	No	0	31560	Local	NA	Mombasa	NA
+C3194	2020-04-28	Mombasa	Mvita	52	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	3110	Local	50-59	Mombasa	NA
+C3205	2020-04-28	Mombasa	Mvita	38	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	3121	Local	30-39	Mombasa	NA
+C358	2020-04-05	Mombasa	Mvita	35	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.291	Asymptomatic	Unknown	NA	NA	Yes	0	274	Unknown	30-39	Mombasa	NA
+C389	2020-04-06	Mombasa	Mvita	29	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.291	Asymptomatic	No	NA	NA	Yes	0	305	Local	20-29	Mombasa	NA
+C3980	2020-05-04	Mombasa	Mvita	37	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	3896	Local	30-39	Mombasa	NA
+C4074	2020-05-04	Mombasa	Mvita	73	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Unknown	NA	NA	NA	0	3990	Unknown	70-79	Mombasa	R_16
+C4585	2020-05-05	Mombasa	Mvita	31	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	4501	Local	30-39	Mombasa	NA
+C4621	2020-05-05	Mombasa	Mvita	25	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	Yes	0	4537	Unknown	20-29	Mombasa	NA
+C4691	2020-05-05	Mombasa	Mvita	58	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Unknown	NA	NA	NA	0	4607	Unknown	50-59	Mombasa	NA
+C4706	2020-05-06	Mombasa	Mvita	23	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.300	Unknown	Unknown	NA	NA	NA	0	4622	Unknown	20-29	Mombasa	NA
+C4714	2020-05-06	Mombasa	Mvita	50	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	4630	Unknown	50-59	Mombasa	R_4
+C4717	2020-05-06	Mombasa	Mvita	60	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	4633	Unknown	60-69	Mombasa	R_11
+C4730	2020-05-05	Mombasa	Mvita	68	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	4646	Unknown	60-69	Mombasa	NA
+C4895	2020-05-06	Mombasa	Mvita	31	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	Yes	0	4811	Local	30-39	Mombasa	NA
+C5008	2020-05-07	Mombasa	Mvita	58	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	4924	Unknown	50-59	Mombasa	NA
+C5015	2020-05-07	Mombasa	Mvita	33	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	4931	Unknown	30-39	Mombasa	R_2
+C5029	2020-05-07	Mombasa	Mvita	28	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	NA	0	4945	Local	20-29	Mombasa	NA
+C5176	2020-05-07	Mombasa	Mvita	62	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	NA	0	5092	Local	60-69	Mombasa	NA
+C5177	2020-05-07	Mombasa	Mvita	55	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	5093	Local	50-59	Mombasa	NA
+C5178	2020-05-07	Mombasa	Mvita	41	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	5094	Local	40-49	Mombasa	NA
+C5334	2020-05-08	Mombasa	Mvita	73	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Unknown	NA	NA	NA	0	5250	Unknown	70-79	Mombasa	R_16
+C5335	2020-05-08	Mombasa	Mvita	59	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	5251	Local	50-59	Mombasa	NA
+C5418	2020-05-08	Mombasa	Mvita	56	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	5334	Unknown	50-59	Mombasa	NA
+C5455	2020-05-08	Mombasa	Mvita	34	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	5371	Unknown	30-39	Mombasa	NA
+C5552	2020-05-09	Mombasa	Mvita	15	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	5468	Local	10-19	Mombasa	NA
+C570	2020-04-10	Mombasa	Mvita	30	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B.29	Unknown	Unknown	NA	NA	NA	0	486	Unknown	30-39	Mombasa	NA
+C5701	2020-05-09	Mombasa	Mvita	62	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Kenya	Nairobi	No	0	5617	Travel associated	60-69	Mombasa	NA
+C571	2020-04-10	Mombasa	Mvita	26	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Symptomatic	Yes	United Arab Emirates	Dubai	No	0	487	Travel associated	20-29	Mombasa	R_15
+C572	2020-04-10	Mombasa	Mvita	25	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.119	Unknown	Unknown	NA	NA	NA	0	488	Unknown	20-29	Mombasa	NA
+C5767	2020-05-09	Mombasa	Mvita	26	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.179	Asymptomatic	No	NA	NA	NA	0	5683	Local	20-29	Mombasa	NA
+C5790	2020-05-09	Mombasa	Mvita	26	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	5706	Local	20-29	Mombasa	NA
+C5811	2020-05-09	Mombasa	Mvita	26	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	5727	Local	20-29	Mombasa	NA
+C5813	2020-05-09	Mombasa	Mvita	39	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	NA	0	5729	Local	30-39	Mombasa	NA
+C5835	2020-05-09	Mombasa	Mvita	23	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	5751	Local	20-29	Mombasa	NA
+C5885	2020-05-10	Mombasa	Mvita	62	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	5801	Unknown	60-69	Mombasa	NA
+C5911	2020-05-10	Mombasa	Mvita	32	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	5827	Unknown	30-39	Mombasa	NA
+C5913	2020-05-10	Mombasa	Mvita	64	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	5829	Unknown	60-69	Mombasa	NA
+C5914	2020-05-10	Mombasa	Mvita	70	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	5830	Unknown	70-79	Mombasa	NA
+C5915	2020-05-10	Mombasa	Mvita	81	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	5831	Unknown	80-89	Mombasa	NA
+C599	2020-04-11	Mombasa	Mvita	36	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	Yes	0	515	Local	30-39	Mombasa	NA
+C6158	2020-05-11	Mombasa	Mvita	39	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	6074	Local	30-39	Mombasa	NA
+C6162	2020-05-11	Mombasa	Mvita	58	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	Yes	0	6078	Unknown	50-59	Mombasa	NA
+C6164	2020-05-11	Mombasa	Mvita	35	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	6080	Unknown	30-39	Mombasa	NA
+C6186	2020-05-11	Mombasa	Mvita	14	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	NA	0	6102	Local	10-19	Mombasa	NA
+C6193	2020-05-10	Mombasa	Mvita	65	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Unknown	NA	NA	NA	0	6109	Unknown	60-69	Mombasa	NA
+C639	2020-04-13	Mombasa	Mvita	53	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B	Asymptomatic	Yes	United Arab Emirates	Dubai	NA	1	555	Border	50-59	Mombasa	R_5
+C6704	2020-05-12	Mombasa	Mvita	17	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	6620	Local	10-19	Mombasa	NA
+C6709	2020-05-12	Mombasa	Mvita	44	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	No	0	6625	Unknown	40-49	Mombasa	NA
+C6711	2020-05-12	Mombasa	Mvita	40	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	6627	Local	40-49	Mombasa	NA
+C6740	2020-05-12	Mombasa	Mvita	34	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	Yes	0	6656	Local	30-39	Mombasa	NA
+C677	2020-04-14	Mombasa	Mvita	57	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.119	Symptomatic	No	NA	NA	Yes	0	593	Local	50-59	Mombasa	R_1
+C680	2020-04-14	Mombasa	Mvita	34	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.70	Asymptomatic	No	NA	NA	Yes	0	596	Local	30-39	Mombasa	NA
+C713	2020-04-14	Mombasa	Mvita	44	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Unknown	NA	NA	NA	0	629	Unknown	40-49	Mombasa	NA
+C7379	2020-05-13	Mombasa	Mvita	63	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	7295	Unknown	60-69	Mombasa	R_12
+C7380	2020-05-13	Mombasa	Mvita	28	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	7296	Unknown	20-29	Mombasa	R_3
+C7383	2020-05-13	Mombasa	Mvita	23	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	7299	Unknown	20-29	Mombasa	R_17
+C7384	2020-05-13	Mombasa	Mvita	35	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.119	Asymptomatic	Unknown	NA	NA	NA	0	7300	Unknown	30-39	Mombasa	R_10
+C800	2020-04-15	Mombasa	Mvita	NA	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	A	Asymptomatic	Unknown	NA	NA	Yes	0	716	Unknown	NA	Mombasa	NA
+C803	2020-04-15	Mombasa	Mvita	39	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	719	Unknown	30-39	Mombasa	NA
+C926	2020-04-17	Mombasa	Mvita	22	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	842	Unknown	20-29	Mombasa	NA
+C3143	2020-04-28	Mombasa	Mvitaa	28	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	Yes	0	3059	Local	20-29	Mombasa	NA
+C1102	2020-04-18	Mombasa	?	53	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B.1	Asymptomatic	Yes	United Arab Emirates	Dubai	No	0	1018	Travel associated	50-59	Mombasa	R_5
+C1983	2020-04-22	Mombasa	?	30	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	1899	Local	30-39	Mombasa	R_19
+C21394	2020-06-20	Mombasa	?	34	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	N.4	Asymptomatic	No	NA	NA	No	0	21310	Local	30-39	Mombasa	NA
+C2883	2020-04-27	Mombasa	?	56	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	NA	0	2799	Local	50-59	Mombasa	NA
+C3208	2020-04-28	Mombasa	?	79	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	NA	0	3124	Local	70-79	Mombasa	NA
+C3216	2020-04-28	Mombasa	?	59	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	NA	0	3132	Local	50-59	Mombasa	NA
+C377	2020-04-06	Mombasa	?	57	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.20	Symptomatic	No	NA	NA	No	0	293	Local	50-59	Mombasa	R_1
+C451	2020-04-07	Mombasa	?	32	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	367	Local	30-39	Mombasa	NA
+C460	2020-04-09	Mombasa	?	58	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	376	Local	50-59	Mombasa	NA
+C4710	2020-05-06	Mombasa	?	57	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	4626	Unknown	50-59	Mombasa	R_6
+C5011	2020-05-07	Mombasa	?	36	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	4927	Unknown	30-39	Mombasa	R_18
+C5018	2020-05-07	Mombasa	?	50	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	4934	Unknown	50-59	Mombasa	NA
+C5246	2020-05-09	Mombasa	?	58	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	No	0	5162	Local	50-59	Mombasa	R_13
+C5288	2020-05-08	Mombasa	?	63	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	5204	Unknown	60-69	Mombasa	R_12
+C5289	2020-05-08	Mombasa	?	35	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	5205	Unknown	30-39	Mombasa	R_10
+C5290	2020-05-08	Mombasa	?	28	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	5206	Unknown	20-29	Mombasa	R_3
+C5293	2020-05-08	Mombasa	?	31	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	5209	Unknown	30-39	Mombasa	NA
+C5301	2020-05-08	Mombasa	?	23	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	5217	Unknown	20-29	Mombasa	R_17
+C5695	2020-05-09	Mombasa	?	33	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	NA	0	5611	Local	30-39	Mombasa	NA
+C5696	2020-05-09	Mombasa	?	58	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	NA	0	5612	Local	50-59	Mombasa	R_13
+C819	2020-04-15	Mombasa	?	60	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	NA	0	735	Local	60-69	Mombasa	NA
+C821	2020-04-15	Mombasa	?	84	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	737	Unknown	80-89	Mombasa	NA
+C14565	2020-06-04	Mombasa	Nyali	40	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	14481	Local	40-49	Mombasa	NA
+C23318	2020-06-23	Mombasa	Nyali	55	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	0	23234	Local	50-59	Mombasa	NA
+C3427	2020-04-29	Mombasa	Nyali	31	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	3343	Local	30-39	Mombasa	NA
+C3445	2020-04-29	Mombasa	Nyali	2	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	Yes	0	3361	Local	0-9	Mombasa	NA
+C353	2020-04-05	Mombasa	Nyali	45	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.20	Asymptomatic	Unknown	NA	NA	Yes	0	269	Unknown	40-49	Mombasa	NA
+C4616	2020-05-05	Mombasa	Nyali	34	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	Yes	0	4532	Local	30-39	Mombasa	NA
+C4864	2020-05-06	Mombasa	Nyali	21	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	4780	Unknown	20-29	Mombasa	NA
+C587	2020-04-11	Mombasa	Nyali	NA	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Unknown	NA	NA	NA	0	503	Unknown	NA	Mombasa	NA
+C589	2020-04-11	Mombasa	Nyali	42	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	NA	0	505	Local	40-49	Mombasa	NA
+C1274	2020-04-20	Mombasa	Shimanzi	57	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	1190	Unknown	50-59	Mombasa	NA
+C1298	2020-04-20	Mombasa	NA	34	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.119	Asymptomatic	No	NA	NA	Yes	0	1214	Local	30-39	Mombasa	NA
+C1646	2020-04-21	Mombasa	NA	48	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	No	0	1562	Local	40-49	Mombasa	NA
+C17447	2020-06-12	Mombasa	NA	6	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	NA	0	17363	Local	0-9	Mombasa	NA
+C247	2020-04-04	Mombasa	NA	66	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.119	Symptomatic	Yes	Kenya	Kitale	NA	0	163	Travel associated	60-69	Mombasa	NA
+C2582	2020-04-25	Mombasa	NA	51	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	NA	0	2498	Local	50-59	Mombasa	NA
+C2800	2020-04-27	Mombasa	NA	42	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	Yes	NA	2716	Unknown	40-49	Mombasa	NA
+C2884	2020-04-28	Mombasa	NA	43	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	No	NA	NA	No	0	2800	Local	40-49	Mombasa	NA
+C30197	2020-07-08	Mombasa	NA	NA	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	30113	Unknown	NA	Mombasa	NA
+C3089	2020-04-29	Mombasa	NA	NA	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	NA	3005	Unknown	NA	Mombasa	NA
+C4084	2020-05-04	Mombasa	NA	36	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	Yes	0	4000	Local	30-39	Mombasa	NA
+C4195	2020-05-06	Mombasa	NA	39	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	NA	4111	Unknown	30-39	Mombasa	NA
+C4199	2020-05-06	Mombasa	NA	48	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	NA	4115	Unknown	40-49	Mombasa	NA
+C4497	2020-05-08	Mombasa	NA	NA	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	NA	4413	Unknown	NA	Mombasa	NA
+C4626	2020-05-08	Mombasa	NA	NA	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	NA	4542	Unknown	NA	Mombasa	NA
+C4649	2020-05-08	Mombasa	NA	NA	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	NA	4565	Unknown	NA	Mombasa	NA
+C5019	2020-05-07	Mombasa	NA	44	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	4935	Unknown	40-49	Mombasa	NA
+C5545	2020-05-10	Mombasa	NA	NA	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	5461	Unknown	NA	Mombasa	NA
+C569	2020-04-10	Mombasa	NA	22	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.291	Asymptomatic	Unknown	NA	NA	Yes	0	485	Unknown	20-29	Mombasa	NA
+C6369	2020-05-14	Mombasa	NA	85	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	6285	Unknown	80-89	Mombasa	NA
+C6370	2020-05-14	Mombasa	NA	52	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	6286	Unknown	50-59	Mombasa	NA
+C6377	2020-05-15	Mombasa	NA	60	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	6293	Unknown	60-69	Mombasa	NA
+C6379	2020-05-15	Mombasa	NA	57	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	6295	Unknown	50-59	Mombasa	NA
+C6380	2020-05-15	Mombasa	NA	60	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	6296	Unknown	60-69	Mombasa	R_11
+C6384	2020-05-14	Mombasa	NA	62	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	6300	Unknown	60-69	Mombasa	NA
+C6561	2020-05-14	Mombasa	NA	NA	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	NA	6477	Unknown	NA	Mombasa	NA
+C6707	2020-05-14	Mombasa	NA	NA	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	6623	Unknown	NA	Mombasa	NA
+C6770	2020-05-14	Mombasa	NA	NA	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	6686	Unknown	NA	Mombasa	NA
+C6860	2020-05-14	Mombasa	NA	NA	Unknown	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	NA	6776	Unknown	NA	Mombasa	NA
+C721	2020-04-15	Mombasa	NA	36	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Unknown	NA	NA	NA	0	637	Unknown	30-39	Mombasa	NA
+C7382	2020-05-13	Mombasa	NA	65	Female	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Symptomatic	Unknown	NA	NA	NA	0	7298	Unknown	60-69	Mombasa	NA
+C8240	2020-05-14	Mombasa	NA	44	Male	Mombasa	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	0	8156	Unknown	40-49	Mombasa	NA
+C13209	2020-06-01	Taita Taveta	Taveta	49	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1.387	Asymptomatic	Yes	Tanzania	Moshi	NA	1	13125	Border	40-49	other_counties	NA
+C14168	2020-06-04	Taita Taveta	Taveta	50	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Kenya	Mombasa	NA	1	14084	Border	50-59	other_counties	NA
+C15180	2020-06-07	Taita Taveta	Taveta	28	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	1	15096	Border	20-29	other_counties	NA
+C15470	2020-06-08	Taita Taveta	Taveta	26	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	1	15386	Border	20-29	other_counties	NA
+C17517	2020-06-13	Taita Taveta	Taveta	54	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.300	Asymptomatic	Yes	Tanzania	Tanga	No	1	17433	Border	50-59	other_counties	NA
+C18021	2020-06-15	Taita Taveta	Taveta	50	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.300	Asymptomatic	No	NA	NA	NA	1	17937	Border	50-59	other_counties	NA
+C19774	2020-06-18	Taita Taveta	Taveta	35	Unknown	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	1	19690	Border	30-39	other_counties	NA
+C20407	2020-06-19	Taita Taveta	Taveta	36	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	No	1	20323	Border	30-39	other_counties	NA
+C21948	2020-06-21	Taita Taveta	Taveta	43	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1	Asymptomatic	Unknown	NA	NA	NA	1	21864	Border	40-49	other_counties	NA
+C23121	2020-06-23	Taita Taveta	Taveta	48	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	1	23037	Border	40-49	other_counties	NA
+C25662	2020-06-27	Taita Taveta	Taveta	48	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.300	Asymptomatic	Unknown	NA	NA	NA	1	25578	Border	40-49	other_counties	NA
+C31141	2020-07-10	Taita Taveta	Taveta	51	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Yes	Tanzania	Tanga	No	1	31057	Border	50-59	other_counties	NA
+C6868	2020-05-13	Taita Taveta	Taveta	43	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Asymptomatic	Yes	Tanzania	Arusha	NA	1	6784	Border	40-49	other_counties	NA
+C6875	2020-05-13	Taita Taveta	Taveta	50	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.300	Unknown	Yes	Tanzania	Tanga	No	1	6791	Border	50-59	other_counties	NA
+C6876	2020-05-13	Taita Taveta	Taveta	36	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Asymptomatic	Yes	Tanzania	Tanga	NA	1	6792	Border	30-39	other_counties	NA
+C6878	2020-05-13	Taita Taveta	Taveta	26	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.119	Unknown	Yes	Tanzania	Arusha	No	1	6794	Border	20-29	other_counties	NA
+C6879	2020-05-13	Taita Taveta	Taveta	40	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Yes	Tanzania	Arusha	No	1	6795	Border	40-49	other_counties	NA
+C6882	2020-05-13	Taita Taveta	Taveta	33	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Symptomatic	Yes	Tanzania	Arusha	NA	1	6798	Border	30-39	other_counties	NA
+C6885	2020-05-13	Taita Taveta	Taveta	50	Unknown	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	Tanga	NA	1	6801	Border	50-59	other_counties	NA
+C6890	2020-05-13	Taita Taveta	Taveta	25	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20D	B.1.1.1	Unknown	Yes	Tanzania	Tanga	No	1	6806	Border	20-29	other_counties	NA
+C6914	2020-05-13	Taita Taveta	Taveta	33	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19A	B.1	Asymptomatic	No	NA	NA	No	1	6830	Border	30-39	other_counties	NA
+C6934	2020-05-13	Taita Taveta	Taveta	45	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	No	NA	NA	No	1	6850	Border	40-49	other_counties	NA
+C6953	2020-05-13	Taita Taveta	Taveta	45	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Yes	Tanzania	Arusha	NA	1	6869	Border	40-49	other_counties	NA
+C6958	2020-05-13	Taita Taveta	Taveta	56	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.300	Asymptomatic	Yes	Kenya	Mombasa	NA	1	6874	Border	50-59	other_counties	NA
+C6962	2020-05-13	Taita Taveta	Taveta	22	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Yes	Tanzania	Arusha	No	1	6878	Border	20-29	other_counties	NA
+C6964	2020-05-13	Taita Taveta	Taveta	33	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	Yes	Tanzania	Arusha	NA	1	6880	Border	30-39	other_counties	NA
+C7547	2020-05-14	Taita Taveta	Taveta	32	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20B	B.1.1.300	Asymptomatic	Yes	Tanzania	Arusha	NA	1	7463	Border	30-39	other_counties	NA
+C7740	2020-05-15	Taita Taveta	Taveta	24	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Tanzania	Tanga	NA	1	7656	Border	20-29	other_counties	NA
+C7741	2020-05-15	Taita Taveta	Taveta	23	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	19B	A	Asymptomatic	Yes	Tanzania	Handeni	NA	1	7657	Border	20-29	other_counties	NA
+C8369	2020-05-16	Taita Taveta	Taveta	35	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Burundi	Kabaga	NA	1	8285	Border	30-39	other_counties	NA
+C17085	2020-06-11	Taita Taveta	Voi	40	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Yes	Kenya	Mombasa	NA	0	17001	Travel associated	40-49	other_counties	NA
+C32519	2020-07-14	Taita Taveta	Voi	42	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	Unknown	NA	NA	NA	0	32435	Unknown	40-49	other_counties	NA
+C39418	2020-07-31	Taita Taveta	Voi	37	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	39334	Unknown	30-39	other_counties	NA
+C39419	2020-07-31	Taita Taveta	Voi	37	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	Unknown	NA	NA	Yes	0	39335	Unknown	30-39	other_counties	NA
+C7409	2020-05-14	Taita Taveta	Voi	46	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	1	7325	Border	40-49	other_counties	NA
+C7417	2020-05-14	Taita Taveta	Voi	45	Male	Taita Taveta	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Asymptomatic	Unknown	NA	NA	NA	1	7333	Border	40-49	other_counties	NA
+C32958	2020-07-17	Tana River	Galole	75	Male	Tana River	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	32874	Local	70-79	other_counties	NA
+C37999	2020-07-28	Tana River	Galole	28	Male	Tana River	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Unknown	Unknown	NA	NA	No	0	37915	Unknown	20-29	other_counties	NA
+C38000	2020-07-28	Tana River	Galole	28	Male	Tana River	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20C	B.1	Asymptomatic	Unknown	NA	NA	NA	0	37916	Unknown	20-29	other_counties	NA
+C32968	2020-07-17	Tana River	NA	53	Female	Tana River	Human	KWTRP	ncov	NA	genome	NA	Africa	Kenya	Kenya	2021-01-20	Kenya	NA	20A	B.1	Unknown	No	NA	NA	No	0	32884	Local	50-59	other_counties	NA

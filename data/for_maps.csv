@@ -1,0 +1,414 @@
+strain,division,location
+C32046,Kilifi,Kaloleni
+C6977,Kilifi,Kaloleni
+C110,Kilifi,Kilifi North
+C11204,Kilifi,Kilifi North
+C14230,Kilifi,Kilifi North
+C14933,Kilifi,Kilifi North
+C20447,Kilifi,Kilifi North
+C25616,Kilifi,Kilifi North
+C25622,Kilifi,Kilifi North
+C25634,Kilifi,Kilifi North
+C27312,Kilifi,Kilifi North
+C38357,Kilifi,Kilifi North
+C38852,Kilifi,Kilifi North
+C39298,Kilifi,Kilifi North
+C422,Kilifi,Kilifi North
+C422,Kilifi,Kilifi North
+C54,Kilifi,Kilifi North
+C724,Kilifi,Kilifi North
+C8565,Kilifi,Kilifi North
+C223,Kilifi,Kilifi South
+C34459,Kilifi,Kilifi South
+C58,Kilifi,Kilifi South
+C13554,Kwale,Lungalunga
+C14075,Kwale,Lungalunga
+C14302,Kwale,Lungalunga
+C14722,Kwale,Lungalunga
+C17912,Kwale,Lungalunga
+C25958,Kwale,Lungalunga
+C2685,Kwale,Lungalunga
+C32615,Kwale,Lungalunga
+C6518,Kwale,Lungalunga
+C6519,Kwale,Lungalunga
+C6524,Kwale,Lungalunga
+C7850,Kwale,Lungalunga
+C7853,Kwale,Lungalunga
+C7855,Kwale,Lungalunga
+C7866,Kwale,Lungalunga
+C8579,Kwale,Matuga
+C15388,Kwale,Msambweni
+C3732,Kwale,?
+C3739,Kwale,?
+C6465,Kwale,?
+C6470,Kwale,?
+C6495,Kwale,?
+C6507,Kwale,?
+C7039,Kwale,?
+C7268,Kwale,?
+C7276,Kwale,?
+C7295,Kwale,?
+C7296,Kwale,?
+C7297,Kwale,?
+C7299,Kwale,?
+C7313,Kwale,?
+C7314,Kwale,?
+C7322,Kwale,?
+C7580,Kwale,?
+C7584,Kwale,?
+C7603,Kwale,?
+C7604,Kwale,?
+C7605,Kwale,?
+C8574,Kwale,?
+C7579,Kwale,NA
+C30069,Lamu,Lamu
+C37981,Lamu,Lamu East
+C24022,Lamu,Lamu West
+C24052,Lamu,Lamu West
+C26630,Lamu,Lamu West
+C27763,Lamu,Lamu West
+C27764,Lamu,Lamu West
+C27765,Lamu,Lamu West
+C28485,Lamu,Lamu West
+C28495,Lamu,Lamu West
+C30062,Lamu,Lamu West
+C30072,Lamu,Lamu West
+C30102,Lamu,Lamu West
+C30103,Lamu,Lamu West
+C31823,Lamu,Lamu West
+C32299,Lamu,Lamu West
+C34392,Lamu,Lamu West
+C35123,Lamu,Lamu West
+C253,Mombasa,Bamburi
+C1092,Mombasa,Changamwe
+C13284,Mombasa,Changamwe
+C13825,Mombasa,Changamwe
+C14866,Mombasa,Changamwe
+C1751,Mombasa,Changamwe
+C17655,Mombasa,Changamwe
+C19001,Mombasa,Changamwe
+C19080,Mombasa,Changamwe
+C24157,Mombasa,Changamwe
+C25538,Mombasa,Changamwe
+C27523,Mombasa,Changamwe
+C27611,Mombasa,Changamwe
+C2847,Mombasa,Changamwe
+C29517,Mombasa,Changamwe
+C3948,Mombasa,Changamwe
+C544,Mombasa,Changamwe
+C544,Mombasa,Changamwe
+C5442,Mombasa,Changamwe
+C5875,Mombasa,Changamwe
+C7081,Mombasa,Changamwe
+C7082,Mombasa,Changamwe
+C16181,Mombasa,Jomvu
+C20682,Mombasa,Jomvu
+C21481,Mombasa,Jomvu
+C21527,Mombasa,Jomvu
+C21582,Mombasa,Jomvu
+C25438,Mombasa,Jomvu
+C28502,Mombasa,Jomvu
+C28591,Mombasa,Jomvu
+C31273,Mombasa,Jomvu
+C5384,Mombasa,Jomvu
+C6564,Mombasa,Jomvu
+C7187,Mombasa,Jomvu
+C7949,Mombasa,Jomvu
+C7954,Mombasa,Jomvu
+C8013,Mombasa,Jomvu
+C8288,Mombasa,Jomvu
+C8311,Mombasa,Jomvu
+C1401,Mombasa,Kilindini Port
+C13996,Mombasa,Kisauni
+C15555,Mombasa,Kisauni
+C1625,Mombasa,Kisauni
+C16959,Mombasa,Kisauni
+C2076,Mombasa,Kisauni
+C2239,Mombasa,Kisauni
+C2449,Mombasa,Kisauni
+C2562,Mombasa,Kisauni
+C26,Mombasa,Kisauni
+C2755,Mombasa,Kisauni
+C27725,Mombasa,Kisauni
+C2801,Mombasa,Kisauni
+C2826,Mombasa,Kisauni
+C2878,Mombasa,Kisauni
+C3381,Mombasa,Kisauni
+C452,Mombasa,Kisauni
+C452,Mombasa,Kisauni
+C4964,Mombasa,Kisauni
+C502,Mombasa,Kisauni
+C5328,Mombasa,Kisauni
+C5355,Mombasa,Kisauni
+C5456,Mombasa,Kisauni
+C5902,Mombasa,Kisauni
+C656,Mombasa,Kisauni
+C657,Mombasa,Kisauni
+C658,Mombasa,Kisauni
+C659,Mombasa,Kisauni
+C688,Mombasa,Kisauni
+C787,Mombasa,Kisauni
+C813,Mombasa,Kisauni
+C815,Mombasa,Kisauni
+C853,Mombasa,Kisauni
+C942,Mombasa,Kisauni
+C14984,Mombasa,Likoni
+C17149,Mombasa,Likoni
+C17244,Mombasa,Likoni
+C1739,Mombasa,Likoni
+C17469,Mombasa,Likoni
+C22256,Mombasa,Likoni
+C22289,Mombasa,Likoni
+C24752,Mombasa,Likoni
+C26221,Mombasa,Likoni
+C28177,Mombasa,Likoni
+C28978,Mombasa,Likoni
+C29300,Mombasa,Likoni
+C30804,Mombasa,Likoni
+C32383,Mombasa,Likoni
+C3457,Mombasa,Likoni
+C4083,Mombasa,Likoni
+C416,Mombasa,Likoni
+C4214,Mombasa,Likoni
+C4290,Mombasa,Likoni
+C4419,Mombasa,Likoni
+C4420,Mombasa,Likoni
+C4447,Mombasa,Likoni
+C4822,Mombasa,Likoni
+C4872,Mombasa,Likoni
+C5119,Mombasa,Likoni
+C5433,Mombasa,Likoni
+C6250,Mombasa,Likoni
+C6255,Mombasa,Likoni
+C6288,Mombasa,Likoni
+C6298,Mombasa,Likoni
+C6309,Mombasa,Likoni
+C7078,Mombasa,Likoni
+C27854,Mombasa,Mikindani
+C22,Mombasa,Mombasa
+C7324,Mombasa,Mombasa
+C1057,Mombasa,Mvita
+C1058,Mombasa,Mvita
+C1063,Mombasa,Mvita
+C1099,Mombasa,Mvita
+C1162,Mombasa,Mvita
+C1172,Mombasa,Mvita
+C1191,Mombasa,Mvita
+C1202,Mombasa,Mvita
+C1216,Mombasa,Mvita
+C1218,Mombasa,Mvita
+C1292,Mombasa,Mvita
+C1351,Mombasa,Mvita
+C1357,Mombasa,Mvita
+C1377,Mombasa,Mvita
+C13939,Mombasa,Mvita
+C1422,Mombasa,Mvita
+C1434,Mombasa,Mvita
+C14421,Mombasa,Mvita
+C1499,Mombasa,Mvita
+C15659,Mombasa,Mvita
+C16881,Mombasa,Mvita
+C16957,Mombasa,Mvita
+C1722,Mombasa,Mvita
+C18284,Mombasa,Mvita
+C18303,Mombasa,Mvita
+C203,Mombasa,Mvita
+C2041,Mombasa,Mvita
+C20639,Mombasa,Mvita
+C22370,Mombasa,Mvita
+C23589,Mombasa,Mvita
+C23676,Mombasa,Mvita
+C23733,Mombasa,Mvita
+C24113,Mombasa,Mvita
+C24205,Mombasa,Mvita
+C2439,Mombasa,Mvita
+C2469,Mombasa,Mvita
+C2531,Mombasa,Mvita
+C25310,Mombasa,Mvita
+C2579,Mombasa,Mvita
+C25853,Mombasa,Mvita
+C2738,Mombasa,Mvita
+C27640,Mombasa,Mvita
+C27664,Mombasa,Mvita
+C2777,Mombasa,Mvita
+C28838,Mombasa,Mvita
+C28839,Mombasa,Mvita
+C293,Mombasa,Mvita
+C309,Mombasa,Mvita
+C310,Mombasa,Mvita
+C3129,Mombasa,Mvita
+C3130,Mombasa,Mvita
+C314,Mombasa,Mvita
+C3140,Mombasa,Mvita
+C31522,Mombasa,Mvita
+C316,Mombasa,Mvita
+C31638,Mombasa,Mvita
+C31644,Mombasa,Mvita
+C3194,Mombasa,Mvita
+C3205,Mombasa,Mvita
+C358,Mombasa,Mvita
+C358,Mombasa,Mvita
+C389,Mombasa,Mvita
+C3980,Mombasa,Mvita
+C4074,Mombasa,Mvita
+C4585,Mombasa,Mvita
+C4621,Mombasa,Mvita
+C4691,Mombasa,Mvita
+C4706,Mombasa,Mvita
+C4714,Mombasa,Mvita
+C4717,Mombasa,Mvita
+C4730,Mombasa,Mvita
+C4895,Mombasa,Mvita
+C5008,Mombasa,Mvita
+C5015,Mombasa,Mvita
+C5029,Mombasa,Mvita
+C5176,Mombasa,Mvita
+C5177,Mombasa,Mvita
+C5178,Mombasa,Mvita
+C5334,Mombasa,Mvita
+C5335,Mombasa,Mvita
+C5418,Mombasa,Mvita
+C5455,Mombasa,Mvita
+C5552,Mombasa,Mvita
+C570,Mombasa,Mvita
+C5701,Mombasa,Mvita
+C571,Mombasa,Mvita
+C572,Mombasa,Mvita
+C5767,Mombasa,Mvita
+C5790,Mombasa,Mvita
+C5811,Mombasa,Mvita
+C5813,Mombasa,Mvita
+C5835,Mombasa,Mvita
+C5885,Mombasa,Mvita
+C5911,Mombasa,Mvita
+C5913,Mombasa,Mvita
+C5914,Mombasa,Mvita
+C5915,Mombasa,Mvita
+C599,Mombasa,Mvita
+C6158,Mombasa,Mvita
+C6162,Mombasa,Mvita
+C6164,Mombasa,Mvita
+C6186,Mombasa,Mvita
+C6193,Mombasa,Mvita
+C639,Mombasa,Mvita
+C6704,Mombasa,Mvita
+C6709,Mombasa,Mvita
+C6711,Mombasa,Mvita
+C6740,Mombasa,Mvita
+C677,Mombasa,Mvita
+C680,Mombasa,Mvita
+C713,Mombasa,Mvita
+C7379,Mombasa,Mvita
+C7380,Mombasa,Mvita
+C7383,Mombasa,Mvita
+C7384,Mombasa,Mvita
+C800,Mombasa,Mvita
+C803,Mombasa,Mvita
+C926,Mombasa,Mvita
+C3143,Mombasa,Mvitaa
+C1102,Mombasa,?
+C1983,Mombasa,?
+C21394,Mombasa,?
+C2883,Mombasa,?
+C3208,Mombasa,?
+C3216,Mombasa,?
+C377,Mombasa,?
+C451,Mombasa,?
+C451,Mombasa,?
+C460,Mombasa,?
+C460,Mombasa,?
+C4710,Mombasa,?
+C5011,Mombasa,?
+C5018,Mombasa,?
+C5246,Mombasa,?
+C5288,Mombasa,?
+C5289,Mombasa,?
+C5290,Mombasa,?
+C5293,Mombasa,?
+C5301,Mombasa,?
+C5695,Mombasa,?
+C5696,Mombasa,?
+C819,Mombasa,?
+C821,Mombasa,?
+C14565,Mombasa,Nyali
+C23318,Mombasa,Nyali
+C3427,Mombasa,Nyali
+C3445,Mombasa,Nyali
+C353,Mombasa,Nyali
+C4616,Mombasa,Nyali
+C4864,Mombasa,Nyali
+C587,Mombasa,Nyali
+C589,Mombasa,Nyali
+C1274,Mombasa,Shimanzi
+C1298,Mombasa,NA
+C1646,Mombasa,NA
+C17447,Mombasa,NA
+C247,Mombasa,NA
+C2582,Mombasa,NA
+C2800,Mombasa,NA
+C2884,Mombasa,NA
+C30197,Mombasa,NA
+C3089,Mombasa,NA
+C4084,Mombasa,NA
+C4195,Mombasa,NA
+C4199,Mombasa,NA
+C4497,Mombasa,NA
+C4497,Mombasa,NA
+C4626,Mombasa,NA
+C4649,Mombasa,NA
+C5019,Mombasa,NA
+C5545,Mombasa,NA
+C569,Mombasa,NA
+C6369,Mombasa,NA
+C6370,Mombasa,NA
+C6377,Mombasa,NA
+C6379,Mombasa,NA
+C6380,Mombasa,NA
+C6384,Mombasa,NA
+C6561,Mombasa,NA
+C6707,Mombasa,NA
+C6770,Mombasa,NA
+C6860,Mombasa,NA
+C721,Mombasa,NA
+C7382,Mombasa,NA
+C8240,Mombasa,NA
+C13209,Taita Taveta,Taveta
+C14168,Taita Taveta,Taveta
+C15180,Taita Taveta,Taveta
+C15470,Taita Taveta,Taveta
+C17517,Taita Taveta,Taveta
+C18021,Taita Taveta,Taveta
+C19774,Taita Taveta,Taveta
+C20407,Taita Taveta,Taveta
+C21948,Taita Taveta,Taveta
+C23121,Taita Taveta,Taveta
+C25662,Taita Taveta,Taveta
+C31141,Taita Taveta,Taveta
+C6868,Taita Taveta,Taveta
+C6875,Taita Taveta,Taveta
+C6876,Taita Taveta,Taveta
+C6878,Taita Taveta,Taveta
+C6879,Taita Taveta,Taveta
+C6882,Taita Taveta,Taveta
+C6885,Taita Taveta,Taveta
+C6890,Taita Taveta,Taveta
+C6914,Taita Taveta,Taveta
+C6934,Taita Taveta,Taveta
+C6953,Taita Taveta,Taveta
+C6958,Taita Taveta,Taveta
+C6962,Taita Taveta,Taveta
+C6964,Taita Taveta,Taveta
+C7547,Taita Taveta,Taveta
+C7740,Taita Taveta,Taveta
+C7741,Taita Taveta,Taveta
+C8369,Taita Taveta,Taveta
+C17085,Taita Taveta,Voi
+C32519,Taita Taveta,Voi
+C39418,Taita Taveta,Voi
+C39419,Taita Taveta,Voi
+C7409,Taita Taveta,Voi
+C7417,Taita Taveta,Voi
+C32958,Tana River,Galole
+C37999,Tana River,Galole
+C38000,Tana River,Galole
+C32968,Tana River,NA

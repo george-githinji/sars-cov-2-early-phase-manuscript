@@ -1,0 +1,7 @@
+﻿start_date,end_date,public_health_measure,jurisdiction,ymin_position,end_date2,ymin_position2
+2020-03-23,2020-06-30,Night curfew,Countrywide,10000,2020-06-30,1000
+2020-03-20,2020-06-30,School Closure,Countrywide,9000,2020-06-30,900
+2020-03-23,2020-06-30,International Air travel,Countrywide,8000,2020-08-01,800
+2020-03-23,2020-06-30,Closure of places of worship,Countrywide,7000,2020-07-06,700
+2020-03-23,2020-06-30,Domestic Air travel,Countrywide,6000,2020-07-15,600
+2020-04-08,2020-06-30,Compulsory masks in public places,Countrywide,5000,2020-06-30,500
